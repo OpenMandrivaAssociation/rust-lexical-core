@@ -5,7 +5,7 @@
 %global crate lexical-core
 
 Name:           rust-%{crate}
-Version:        0.7.4
+Version:        1.0.6
 Release:        1%{?dist}
 Summary:        Lexical, to- and from-string conversion routines
 
